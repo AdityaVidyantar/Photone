@@ -1,0 +1,14 @@
+# Build files
+bin/
+obj/
+
+# IDE configs
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# os stuff
+.DS_Store
+Thumbs.db
